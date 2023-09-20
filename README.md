@@ -1,7 +1,7 @@
 # Nuxt 3 Tripay Payment Gateway for Application Billing Internet (Radius)
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
+[![](https://github.com/fanfantasi/payment-tripay/blob/14091df49072e4ee7be03a18cceb41a8cf1fb77b/ss-1.png)](https://github.com/fanfantasi)
 ## Setup
 
 Make sure to install the dependencies:
